@@ -1,0 +1,13 @@
+Technical Documentation
+IST 402
+Abu Sakif, Brian Kim, Elaine Tang
+
+Mission Statement
+	Team Asia is creating an application for Penn State’s SRTE (Student Rating of Teaching Effectiveness). Instead of accessing it through Angel or Canvas, there will be a separate application for this web form. This application is targeting Penn State students to rate their professors in a feasible way. 
+Technical Requirements
+	For our IDE, we will be using Eclipse and implementing a spring framework to develop a web application. 
+Functional Requirements
+	The users will be students at Penn State. When the application is launched, the user must enter their Penn State ID and password. After logging in, there will be a list of the student’s classes. The user will select a class they are rating and the form will open for them to fill out. The back-end of this project will be analyzing the forms and getting averaged for reports. 
+Use Case Scenarios
+As a [ ]…I would like to…So that…DeveloperCreate a loginPenn State students can log into their accountDeveloperIntegrate a login API
+Students can access their classes to rateDeveloperMake the form font biggerUsers don’t have trouble reading the form
